@@ -1,6 +1,6 @@
 # README.md
 
-(Ich)[https://github.com/viktor-chiarcos] schreibe ein Buch über mich und verwende dabei Persöhnliche Daten
+[Ich](https://github.com/viktor-chiarcos) schreibe ein Buch über mich und verwende dabei Persöhnliche Daten
 
 Geschichte 1: #Mannheimer Nikolauswettbewerb 2024
 Kapitel 1: #Die Annkunft
@@ -11,7 +11,7 @@ Als ich angekommen bin musste ich mich aufwärmen.
 
 Kapitel 2: #Der Auftriit
 
-Als (Ich)[https://github.com/viktor-chiarcos] aufs Eis musste habe ich geweint.
+Als [Ich](https://github.com/viktor-chiarcos) aufs Eis musste habe ich geweint.
 Der grund war:,,Ich habe Angst mit Axel das erste mal aufzutreten!''
 Ich hatte nähmlich den ersten auftritt an diesem Tag.
 Nathalie Herzog meinte:,,Wenn du Angst hast dann sollst du den Sprung bzw. die 2 Axels einfach auslassen
